@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Danil 👋
 
-<!--
-**awsedrig/awsedrig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer from Russia.
 
-Here are some ideas to get you started:
+## Tech Stack
+- C# / ASP.NET Core / Entity Framework Core
+- PostgreSQL
+- REST API / JWT Authentication
+- Git / GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [KiwiTracker](https://github.com/awsedrig/KiwiTracker) — Task tracking API with JWT auth, deployed on Railway
+- [WeatherDashboard](https://github.com/awsedrig/WeatherDashboard) — Weather API + Favorite cities management
+
+## Currently Learning
+- Frontend (HTML / CSS / JavaScript)
+- React
+
+## Contact
+- Telegram: @awsedrggft
