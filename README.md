@@ -17,4 +17,4 @@ Backend developer from Russia.
 - React
 
 ## Contact
-- Telegram: @awsedrggft
+- Telegram: @idiots
